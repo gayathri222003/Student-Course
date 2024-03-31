@@ -1,4 +1,4 @@
-public class FibonacciSeries {
+public class Fibonacci {
     public static void main(String[] args) {
         int count = 10; // Change this to the desired number of terms
         int num1 = 0, num2 = 1;
